@@ -1,2 +1,10 @@
 # Restaurant-data-analysis
 ![10](https://github.com/MuskanSalmani/Restaurant-data-analysis/assets/96484516/c34b9185-c24f-4b6d-8981-288b3acc9436)
+![1](https://github.com/MuskanSalmani/Restaurant-data-analysis/assets/96484516/dc8cac34-e3b3-4b2b-9b5f-a6e07833d435)
+![2](https://github.com/MuskanSalmani/Restaurant-data-analysis/assets/96484516/f44d04b3-a6f6-4f57-9ddb-6a933e8ad687)
+![3](https://github.com/MuskanSalmani/Restaurant-data-analysis/assets/96484516/4a148f49-fccc-4c3b-926f-dc412f4dde84)
+![4](https://github.com/MuskanSalmani/Restaurant-data-analysis/assets/96484516/8fe21469-2d86-477f-b7d7-d735fa838084)
+![5](https://github.com/MuskanSalmani/Restaurant-data-analysis/assets/96484516/e11eccb2-da56-4061-a148-ee1a5d0c80c9)
+![6](https://github.com/MuskanSalmani/Restaurant-data-analysis/assets/96484516/b7fa91a3-1bc1-4b6a-9c48-d2c4b8448752)
+![7](https://github.com/MuskanSalmani/Restaurant-data-analysis/assets/96484516/1271b802-19e9-46aa-ae86-6dafd5aad167)
+![9](https://github.com/MuskanSalmani/Restaurant-data-analysis/assets/96484516/3c222a78-f010-4ad6-9038-c013b7f9f42b)
